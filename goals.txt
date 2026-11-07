@@ -1,0 +1,26 @@
+What I've Learned So Far
+1. The Command Line
+A way to interact with the computer by typing commands instead of clicking with the mouse.
+Basic commands: 
+- pwd (where am I)
+- ls (list files)
+- cd (move between folders)
+- mkdir (create a folder)
+
+2. The Difference Between Git and GitHub
+Git: a program on my computer that saves versions and the history of changes to a project.
+GitHub: a website where I upload my projects, share them, and collaborate with others.
+
+3. How to Create a Project and Connect It to Git and GitHub
+- git init to start tracking the project.
+- git add and git commit to save a version of the changes.
+- git remote add origin to link the project to a repository on GitHub.
+- git push to upload the project.
+
+4. Why Developers Use the Command Line and GitHub
+- The command line is faster and more precise, and it allows tasks to be automated.
+- Git keeps a history of every change and lets you go back to any previous version.
+- GitHub makes teamwork easier, keeps projects safely stored, and works as a portfolio that employers can see.
+
+Eman Ibrahim Almowalad
+11 - 8 - 2026
