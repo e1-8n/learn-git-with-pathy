@@ -22,5 +22,12 @@ GitHub: a website where I upload my projects, share them, and collaborate with o
 - Git keeps a history of every change and lets you go back to any previous version.
 - GitHub makes teamwork easier, keeps projects safely stored, and works as a portfolio that employers can see.
 
+5. My Next Goal
+- Keep learning GitHub in more depth, including branches, pull requests, issues and GitHub Pages.
+- Use GitHub in all my upcoming projects, whether they are university assignments, competitions or personal projects.
+- Commit my work regularly with clear messages, so I can track my progress and go back to any earlier version when needed.
+- Write a clear README for every project that explains what it does and how to use it.
+- Build a strong GitHub profile that shows my data science skills and works as a portfolio for internships and future jobs.
+
 Eman Ibrahim Almowalad
 11 - 8 - 2026
